@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practiceOne</string>
+    <string name="enter_url_here">Enter URL here:</string>
+    <string name="search_image">search image</string>
+    <string name="back_button">back button</string>
+
+
+</resources>
